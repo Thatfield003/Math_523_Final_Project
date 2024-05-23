@@ -126,22 +126,24 @@ Building upon this model, we would like to create a function for the intrinsic g
 
 ## References
 
-1. Peltier et al., 2012. Biology and epidemiology of white mold (Sclerotinia sclerotiorum) in North America.
-2. Steadman, 1983. White mold diseases of bean: epidemiology and management.
-3. Shah et al., 2019. Identification of plant species susceptible to white mold (Sclerotinia sclerotiorum) in the soybean cropping system.
-4. Lehner et al., 2017. Meta-analysis of fungicide efficacy in controlling white mold in soybeans.
-5. Wutzki et al., 2016. Reduction in white mold in soybean crops using different fungicides.
-6. Mueller, 2014. Managing white mold in soybeans.
-7. Staton, 2023. Fungicide application timing and its impact on white mold control.
-8. Webster, 2022. Modern fungicides and their effectiveness.
-9. McCreary et al., 2016. Economic Threshold Levels in white mold management.
-10. Lala et al., 2022. Importance of Economic Threshold Level in pest management.
-11. Chander et al., 2022. Integrated Pest Management and its principles.
-12. Singh et al., 2023. Estimation of Economic Injury Levels for white mold.
-13. White Mold Data, 2019. Remote sensing technologies for white mold monitoring.
-14. Chilvers et al., 2018. Sporecaster: A mobile app for predicting white mold risks.
+1. Angelique J Peltier, Carl A Bradley, Martin I Chilvers, Dean K Malvick, Daren S Mueller, Kiersten A Wise, and Paul D Esker. Biology, yield loss and control of sclerotinia stem rot of soybean. Journal of Integrated Pest Management, 3(2):B1–B7, 2012.
+2. James R Steadman et al. White mold–a serious yield-limiting disease of bean. Plant Disease, 67(4):346–350, 1983.
+3. DA Shah, HR Dillard, and SJ Pethybridge. Identification of factors associated with white mould in snap bean using tree-based methods. Plant pathology, 68(9):1694–1705, 2019.
+4. MS Lehner, SJ Pethybridge, MC Meyer, and EM Del Ponte. Meta-analytic modelling of the incidence–yield and incidence–sclerotial production relationships in soybean white mould epidemics. Plant Pathology, 66(3):460–468, 2017.
+5. Carlos Rafael Wutzki, D de S Jaccoud Filho, Ayrton Berger Neto, Hamilton Edemundo Tullio, Fernando Cezar Juliatti, Aguinaldo José do Nascimento, et al. Reduction of white mold level on soybean by fungicide management strategies. Bioscience Journal, 32(3):642–651, 2016.
+6. Daren Mueller. Managing white mold in soybean. Iowa State University Extension and Outreach, July 2014.
+7. Mike Staton and Martin Chilvers. Fungicide use for managing white mold in soybeans. Michigan State University Extension, July 2023.
+8. Richard W. Webster, Mitchell G. Roth, Brian Mueller, Daren S. Mueller, Martin I. Chilvers, Darcy E. P. Telenko, Jaime F. Willbur, Spyridon Mourtzinis, Shawn Conley, and Damon Smith. Modern integrated management practices for controlling white mold of soybean. Crop Protection Network, March 2022.
+9. A. Lala and A. Das. Importance of economic levels in integrated pest management. Indian Farmer, 9(05):152, 2022.
+10. S. Chander. Integrated pest management of field crops. Indian Journal of Entomology, pages 29–39, 2022.
+11. G. Singh and N. Aggarwal. Estimation of economic threshold level (etl) of bemisia tabaci (gennadius) in brinjal (solanum melongena l.). Journal of Entomological Research, 47(1):140–145, 2023.
+12. Cara M. McCreary, Donald Depuydt, Richard J. Vyn, and Chris L. Gillard. Fungicide efficacy of dry bean white mold [sclerotinia sclerotiorum (lib.) de bary, causal organism] and economic analysis at moderate to high disease pressure. Crop Protection, 82:75–81, 2016.
+13. G. A. Danielson, B. D. Nelson, and T. C. Helms. Effect of sclerotinia stem rot on yield of soybean inoculated at different growth stages. Plant Disease, 88(3):297–300, 2004. PMID: 30812363.
+14. Confiance Mfuka, Xiaoyang Zhang, and Emmanuel Byamukama. Mapping and quantifying white mold in soybean across South Dakota using landsat images. Journal of Geographic Information System, 11:331–346, 2019.
+15. Martin Chilvers and Jaime Willbur. Sporecaster: New white mold risk prediction smartphone app now live. Michigan State University, Department of Plant, Soil and Microbial Sciences, May 2018.
 
 ---
+
 
 ## Supplemental Data
 
